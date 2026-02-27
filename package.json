@@ -1,0 +1,29 @@
+{
+  "name": "iota-poc",
+  "version": "1.0.0",
+  "dependencies": {
+    "@sap/cds": "^9"
+  },
+  "devDependencies": {
+    "@cap-js/cds-test": "^0",
+    "@cap-js/cds-typer": "^0",
+    "@cap-js/sqlite": "^2",
+    "@sap/cds-dk": "^9",
+    "@sap/ux-specification": "^1.120.5",
+    "axios": "^1.6.7",
+    "chai": "^6.2.2",
+    "mbt": "^1.2.27",
+    "mocha": "^11.6.0",
+    "rimraf": "^6.0.1"
+  },
+  "scripts": {
+    "start": "cds-serve",
+    "test": "mocha --timeout 5000 test/mocha/**/*.js",
+    "build": "rimraf resources mta_archives && mbt build --mtar archive",
+    "deploy": "cf deploy mta_archives/archive.mtar --retries 1",
+    "watch-eamcoregui": "cds watch --open eamcoregui/webapp/index.html?sap-ui-xx-viewCache=false",
+    "undeploy": "cf undeploy ms.iota --delete-services --delete-service-keys --delete-service-brokers"
+  },
+  "private": true,
+  "type": "module"
+}
