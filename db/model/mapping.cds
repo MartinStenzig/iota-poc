@@ -2,6 +2,7 @@ namespace ao.mapped;
 
 using {s4} from './source';
 
+/*
 entity ReportingTypes as
     select from s4.T353I {
         key concat(

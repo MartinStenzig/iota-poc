@@ -1,6 +1,7 @@
 namespace s4;
 
 @ao.s4.virtual
+@cds.persistence.skip
 entity T002 {
         /** Language Key */
     key SPRAS  : String(1);
@@ -14,6 +15,7 @@ entity T002 {
 
 
 @ao.s4.virtual
+@cds.persistence.skip
 entity T353I {
         /** Client */
     key MANDT : String(3);
@@ -27,6 +29,7 @@ entity T353I {
 
 
 @ao.s4.virtual
+@cds.persistence.skip
 entity T353I_T {
         /** Client */
     key MANDT : String(3);

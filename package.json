@@ -2,7 +2,9 @@
   "name": "iota-poc",
   "version": "1.0.0",
   "dependencies": {
-    "@sap/cds": "^9"
+    "@cap-js/hana": "^2",
+    "@sap/cds": "^9",
+    "@sap/xssec": "^4"
   },
   "devDependencies": {
     "@cap-js/cds-test": "^0",
@@ -25,5 +27,13 @@
     "undeploy": "cf undeploy ms.iota --delete-services --delete-service-keys --delete-service-brokers"
   },
   "private": true,
-  "type": "module"
+  "type": "module",
+  "cds": {
+    "requires": {
+      "[production]": {
+        "auth": "xsuaa",
+        "db": "hana"
+      }
+    }
+  }
 }
