@@ -34,6 +34,10 @@ modules:
       buildpack: nodejs_buildpack
     requires:
       - name: iota-db
+        properties:                                     
+          TARGET_CONTAINER: ~{hdi-container-service} 
+      - name: ao-grantor-service
+
 
 resources:
   - name: iota-auth
@@ -49,8 +53,15 @@ resources:
           credential-types:
             - "binding-secret"
             - "x509"
+
   - name: iota-db
     type: com.sap.xs.hdi-container
     parameters:
       service: hana
       service-plan: hdi-shared
+    properties:
+      hdi-container-service: ${service-name}   
+
+  # Grantor service
+  - name: ao-grantor-service                              
+    type: org.cloudfoundry.existing-service
