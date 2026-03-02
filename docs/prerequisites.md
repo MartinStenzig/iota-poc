@@ -1,4 +1,8 @@
 ## Prerequisites
+### HANA
+1. DP Agent installation
+2. Creation of remote source
+
 
 1. Create a grantor user (in our case `AO_GRANTOR_USER`)
 
@@ -17,6 +21,17 @@
 
 3. You have to grant the role with admin option to the user in the ao grantor service (in our case `AO_GRANTOR_USER`)
     - The statement to use is `GRANT AO_IOTA_ACCESS TO AO_GRANTOR_USER WITH ADMIN OPTION`
+
+### SAP 
+#### What to do in case the ABAPTABLES list does not show up in the Remote Source dictionary
+In short, the ABAP backend is blocking an external RFC call to a function module.  The adapter is trying to call /SAPDS/TABLE_IMPORT to read tables — and the ABAP system refuses. To fix, we have to “whitelist” the function module.
+
+On the ABAP backend, run the blacklist maintenance report and check this FM:
+Run RS_RFC_BLACKLIST_CUSTOM
+Search for /SAPDS/TABLE_IMPORT
+If it’s flagged “blocked on server/client”, that’s your root cause.
+This report/process is the standard way to maintain the RFC blacklist in customer systems.  If it is blacklisted: you can whitelist it via the custom setting.
+While this is a fix in our Demo environment, there is a note, 2416705, that should be reviewed for productive scenarios
 
 
 ## Steps taken
