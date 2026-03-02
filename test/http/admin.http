@@ -4,4 +4,21 @@
 ####
 GET {{server}}{{service}}/AReportingTypes
 ####
+GET {{server}}{{service}}/EntitySynchStatus?$expand=events($orderby=createdAt desc)
+####
 GET {{server}}{{service}}/EntitySynchStatus
+
+
+###
+GET {{server}}{{service}}/EntitySynchEvents
+
+
+####
+POST {{server}}{{service}}/EntitySynchEvents
+Content-Type: application/json
+
+{
+    "remoteSource": "testRemoteSource",
+    "entityName": "s4.T002",
+    "event": "finish 2"
+}
