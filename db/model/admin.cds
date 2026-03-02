@@ -5,6 +5,13 @@ using {
     managed
 } from '@sap/cds/common';
 
+entity S4HanaTables : managed {
+    key tableName   : String(200);
+        description : String(200);
+        transfer    : Boolean;
+
+}
+
 /** Storage of Entity Synchronization Events */
 entity EntitySynchEvents : cuid, managed {
     remoteSource : String(100);

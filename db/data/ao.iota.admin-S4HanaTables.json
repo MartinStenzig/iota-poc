@@ -1,0 +1,372 @@
+[
+    {
+        "tableName": "KLAH",
+        "description": "Class Header Data",
+        "transfer": false
+    },
+    {
+        "tableName": "KLAT",
+        "description": "Class Header TEXT",
+        "transfer": false
+    },
+    {
+        "tableName": "KSSK",
+        "description": "Allocation Table Object To Class",
+        "transfer": false
+    },
+    {
+        "tableName": "KSML",
+        "description": "Characteristics of a Class",
+        "transfer": false
+    },
+    {
+        "tableName": "CABN",
+        "description": "Charcteristics Description",
+        "transfer": false
+    },
+    {
+        "tableName": "CABNT",
+        "description": "Charcteristics Description Texts",
+        "transfer": false
+    },
+    {
+        "tableName": "CAWN",
+        "description": "Characteristic values",
+        "transfer": true
+    },
+
+
+    {
+        "tableName": "AUSP",
+        "description": "Characteristics Values",
+        "transfer": false
+    },
+    
+    {
+        "tableName": "TCLG",
+        "description": "Class Group",
+        "transfer": false
+    },
+    
+
+    {
+        "tableName": "T001",
+        "description": "Company Codes",
+        "transfer": false
+    },
+    {
+        "tableName": "T002",
+        "description": "Language Keys",
+        "transfer": false
+    },
+    {
+        "tableName": "T003O",
+        "description": "Order Types",
+        "transfer": false
+    },
+    {
+        "tableName": "T003P",
+        "description": "Order Type Descriptions",
+        "transfer": false
+    },
+    {
+        "tableName": "T004",
+        "description": "Directory of Charts of Accounts",
+        "transfer": false
+    },
+    {
+        "tableName": "T004T",
+        "description": "Chart of Account Names",
+        "transfer": false
+    },
+    {
+        "tableName": "T006",
+        "description": "Units of Measurement",
+        "transfer": false
+    },
+    {
+        "tableName": "T006D",
+        "description": "Dimensions",
+        "transfer": false
+    },
+    {
+        "tableName": "T009B",
+        "description": "Fiscal year variant periods",
+        "transfer": false
+    },
+    {
+        "tableName": "T023",
+        "description": "Material Groups",
+        "transfer": false
+    },
+    {
+        "tableName": "T023T",
+        "description": "Material Group Descriptions",
+        "transfer": false
+    },
+    {
+        "tableName": "T134",
+        "description": "Material Types",
+        "transfer": false
+    },
+    {
+        "tableName": "T134T",
+        "description": "Material Type Descriptions",
+        "transfer": false
+    },
+    {
+        "tableName": "T137",
+        "description": "Industries for materials",
+        "transfer": false
+    },
+    {
+        "tableName": "T137T",
+        "description": "Industry Descriptions",
+        "transfer": false
+    },
+    {
+        "tableName": "T156",
+        "description": "Movement Type",
+        "transfer": false
+    },
+    {
+        "tableName": "T156T",
+        "description": "Movement Type Text",
+        "transfer": false
+    },
+    {
+        "tableName": "TGSB",
+        "description": "Business Areas",
+        "transfer": false
+    },
+    {
+        "tableName": "TKA01",
+        "description": "Controlling Areas",
+        "transfer": false
+    },
+    {
+        "tableName": "TKA02",
+        "description": "Controlling area assignment",
+        "transfer": false
+    },
+    {
+        "tableName": "TPIR2T",
+        "description": "Texts for Value Categories",
+        "transfer": false
+    },
+    {
+        "tableName": "TPIK3",
+        "description": "Assignment Table: Cost Elements -> Value Categories",
+        "transfer": false
+    },
+    {
+        "tableName": "SETLEAF",
+        "description": "Values in Sets",
+        "transfer": false
+    },
+    {
+        "tableName": "TJ02T",
+        "description": "System status texts",
+        "transfer": false
+    },
+    {
+        "tableName": "TJ30T",
+        "description": "Texts for User Status",
+        "transfer": false
+    },
+    {
+        "tableName": "T353I",
+        "description": "Maintenance activity types",
+        "transfer": false
+    },
+    {
+        "tableName": "T353I_T",
+        "description": "Maintenance activity type description",
+        "transfer": false
+    },
+    {
+        "tableName": "TQ80",
+        "description": "Notification Types",
+        "transfer": false
+    },
+    {
+        "tableName": "TQ80_T",
+        "description": "Notification type texts",
+        "transfer": false
+    },
+    {
+        "tableName": "T356",
+        "description": "Priorities",
+        "transfer": false
+    },
+    {
+        "tableName": "T356_T",
+        "description": "Priority text",
+        "transfer": false
+    },
+    {
+        "tableName": "T356A_T",
+        "description": "Priority type texts",
+        "transfer": false
+    },
+    {
+        "tableName": "T370K_T",
+        "description": "Language-Dependent Texts for Object Type",
+        "transfer": false
+    },
+    {
+        "tableName": "AUFK",
+        "description": "Order master data",
+        "transfer": false
+    },
+    {
+        "tableName": "AFIH",
+        "description": "Maintenance order header",
+        "transfer": false
+    },
+    {
+        "tableName": "AFKO",
+        "description": "Order Header Data PP Orders",
+        "transfer": false
+    },
+    {
+        "tableName": "AFPO",
+        "description": "Order item",
+        "transfer": false
+    },
+    {
+        "tableName": "AFVC",
+        "description": "Operation within an order",
+        "transfer": false
+    },
+    {
+        "tableName": "AFVV",
+        "description": "DB structure of the quantities/dates/values in the operation",
+        "transfer": false
+    },
+    {
+        "tableName": "AFRU",
+        "description": "Order Confirmatio",
+        "transfer": false
+    },
+    {
+        "tableName": "MSEG",
+        "description": "Document Segment: Material",
+        "transfer": false
+    },
+    {
+        "tableName": "CRHD",
+        "description": "Work Center Header",
+        "transfer": false
+    },
+    {
+        "tableName": "CRTX",
+        "description": "Text for the Work Center or Production Resource/Tool",
+        "transfer": false
+    },
+    {
+        "tableName": "KAKO",
+        "description": "Capacity Header Segment",
+        "transfer": false
+    },
+    {
+        "tableName": "PMCO",
+        "description": "Cost structure of maintenance order",
+        "transfer": false
+    },
+    {
+        "tableName": "PMCO_OP",
+        "description": "Cost structure of maintenance order",
+        "transfer": false
+    },
+    {
+        "tableName": "ACDOCA",
+        "description": "Financial View for costs",
+        "transfer": false
+    },
+    {
+        "tableName": "CSKA",
+        "description": "Cost Elements (Data Dependent on Chart of Accounts)",
+        "transfer": false
+    },
+    {
+        "tableName": "CSKB",
+        "description": "Cost Elements (Data Dependent on Controlling Area)",
+        "transfer": false
+    },
+    {
+        "tableName": "CSKU",
+        "description": "Cost Elements (Data Dependent on Controlling Area)",
+        "transfer": false
+    },
+    {
+        "tableName": "JEST",
+        "description": "Individual Object Status",
+        "transfer": false
+    },
+    {
+        "tableName": "JSTO",
+        "description": "Status object information",
+        "transfer": false
+    },
+    {
+        "tableName": "IFLOT",
+        "description": "Functional Location (Table)",
+        "transfer": false
+    },
+    {
+        "tableName": "IFLOTX",
+        "description": "Functional Location: Short Texts",
+        "transfer": false
+    },
+    {
+        "tableName": "ILOA",
+        "description": "PM Object Location and Account Assignment",
+        "transfer": false
+    },
+    {
+        "tableName": "IFLOS",
+        "description": "Functional Location Labels",
+        "transfer": false
+    },
+    {
+        "tableName": "EQUI",
+        "description": "Equipment master data",
+        "transfer": false
+    },
+    {
+        "tableName": "EQUZ",
+        "description": "Equipment time segment",
+        "transfer": false
+    },
+    {
+        "tableName": "EQKT",
+        "description": "Equipment Short Texts",
+        "transfer": false
+    },
+    {
+        "tableName": "COSS",
+        "description": "CO Object: Cost Totals for Internal Postings",
+        "transfer": false
+    },
+    {
+        "tableName": "COSP",
+        "description": "CO Object: Cost Totals for External Postings",
+        "transfer": false
+    },
+    {
+        "tableName": "RESB",
+        "description": "Reservation/dependent requirements",
+        "transfer": false
+    },
+    {
+        "tableName": "MARA",
+        "description": "General Material Data",
+        "transfer": false
+    },
+    {
+        "tableName": "MAKT",
+        "description": "Material Descriptions",
+        "transfer": false
+    }
+]
