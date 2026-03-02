@@ -1,6 +1,7 @@
 
-SELECT * FROM REMOTE_SOURCES
 
-SELECT * FROM virtual_tables
+## Admin Information
+The `S4HanaTables` entity stores the list of tables and an indicator as to whether or not it should be synchronized. 
 
-SELECT * FROM REMOTE_SOURCE_OBJECTS WHERE display_name LIKE '%T002%'
+The `EntitySynchEvents` entity is getting populated throughout the synchronization events with information. It is getting summarized to `EntitySynchEventsLatest` which is available in the Admin service as `EntitySynchStatus`.
+
