@@ -2,4 +2,6 @@
 @service=/odata/v4/admin
 
 ####
-GET {{server}}{{service}}/ReportingTypes
+GET {{server}}{{service}}/AReportingTypes
+####
+GET {{server}}{{service}}/EntitySynchStatus

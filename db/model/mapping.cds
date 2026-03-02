@@ -2,13 +2,14 @@ namespace ao.mapped;
 
 using {s4} from './source';
 
-/*
+
 entity ReportingTypes as
     select from s4.T353I {
+        @ao.keyconversion
         key concat(
                 MANDT, '|', ILART
-            )       as ID,
-            'local' as sourceSystem,
+            ,'test')       as ID           : UUID,
+            'local' as sourceSystem : String(100),
             ILART   as code,
             ILART   as sapILART,
     };

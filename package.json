@@ -4,7 +4,8 @@
   "dependencies": {
     "@cap-js/hana": "^2",
     "@sap/cds": "^9",
-    "@sap/xssec": "^4"
+    "@sap/xssec": "^4",
+    "uuid-by-string": "^4.0.0"
   },
   "devDependencies": {
     "@cap-js/cds-test": "^0",
@@ -32,6 +33,10 @@
     "requires": {
       "[production]": {
         "auth": "xsuaa",
+        "db": "hana"
+      },
+      "[hybrid]": {
+        "auth": "dummy",
         "db": "hana"
       }
     }
