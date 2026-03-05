@@ -134,6 +134,10 @@
     },
     "hdbeshconfig": {
       "plugin_name": "com.sap.hana.di.eshconfig"
+    },
+    "hdblogicalschema":{
+      "plugin_name": "com.sap.hana.di.logicalschema"
     }
+
   }
 }
