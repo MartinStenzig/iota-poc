@@ -33,3 +33,4 @@ mta_archives/
 # @cap-js/cds-typer
 @cds-models
 tmp/
+s4_oracle_schema_generation.sql
