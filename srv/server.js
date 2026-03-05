@@ -1,1 +1,1 @@
-import './rep_tab_setup/tab-setup.js'
+import './lib/s4conn.js'
