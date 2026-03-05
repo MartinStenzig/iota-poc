@@ -2,6 +2,7 @@ namespace s4;
 
 @ao.S4RemoteSource: 'AO_S4H'
 @ao.S4TableName   : 'AFVC'
+@cds.persistence.exists: true
 entity AFVC {
       /** Technical field to store the source system identifier for each record. */
       @ao.SourceSystemColumn: true

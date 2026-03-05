@@ -1,22 +1,26 @@
 namespace s4;
 
-@ao.S4RemoteSource : 'AO_S4H'
-@ao.S4TableName : 'T134T'
+@ao.S4RemoteSource     : 'AO_S4H'
+@ao.S4TableName        : 'T134T'
+@cds.persistence.exists: true
 entity T134T {
-  /** Technical field to store the source system identifier for each record. */
-  @ao.SourceSystemColumn : true
+      /** Technical field to store the source system identifier for each record. */
+      @ao.SourceSystemColumn: true
   key SOURCE_SYSTEM : String(50);
-  /** Client */
-  @ao.S4FieldName : 'MANDT'
-  key MANDT : String(3);
-  /** Language Key */
-  @ao.S4FieldName : 'SPRAS'
-  key SPRAS : String(1);
-  /** Material Type */
-  @ao.S4FieldName : 'MTART'
-  key MTART : String(4);
-  /** Description of Material Type */
-  @ao.S4FieldName : 'MTBEZ'
-  MTBEZ : String(25);
-};
 
+      /** Client */
+      @ao.S4FieldName       : 'MANDT'
+  key MANDT         : String(3);
+
+      /** Language Key */
+      @ao.S4FieldName       : 'SPRAS'
+  key SPRAS         : String(1);
+
+      /** Material Type */
+      @ao.S4FieldName       : 'MTART'
+  key MTART         : String(4);
+
+      /** Description of Material Type */
+      @ao.S4FieldName       : 'MTBEZ'
+      MTBEZ         : String(25);
+};
