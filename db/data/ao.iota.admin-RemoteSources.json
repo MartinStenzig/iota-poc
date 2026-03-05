@@ -1,0 +1,12 @@
+[
+    {
+        "ID": "AO_S4H",
+        "sourceSystemId": "S4H",
+        "description": "This remote source is pointing to the demo 21 system."
+    },
+    {
+        "ID": "AO_S4D",
+        "sourceSystemId": "S4D",
+        "description": "This remote source is pointing to the demo 21 system."
+    }
+]

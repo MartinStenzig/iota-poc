@@ -1,0 +1,878 @@
+[
+    {
+        "ID": "2031c578-6d4e-41f0-ab81-489f7c6b1154",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "KLAH",
+        "transfer": true
+    },
+    {
+        "ID": "810912de-f6ad-437d-8811-71758909f1d6",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "KLAT",
+        "transfer": true
+    },
+    {
+        "ID": "811dd92b-a5a1-44b9-a1cc-0fe8f70c14e1",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "KSSK",
+        "transfer": true
+    },
+    {
+        "ID": "32e51ad7-053b-474a-b5cf-719a9377027d",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "KSML",
+        "transfer": true
+    },
+    {
+        "ID": "0ada35ab-47f5-43d0-95b4-8cdd863e7a1a",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "CABN",
+        "transfer": true
+    },
+    {
+        "ID": "b26270e6-6bd1-46e3-8a5d-10359c8240c6",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "CABNT",
+        "transfer": true
+    },
+    {
+        "ID": "61ec19dc-c21f-4f78-9875-a1e773505bae",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "CAWN",
+        "transfer": true
+    },
+    {
+        "ID": "1707aa78-3410-4063-94be-0c6bffabd49b",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "AUSP",
+        "transfer": true
+    },
+    {
+        "ID": "e2165c49-f3f1-4abd-955b-6fa3673dd9b7",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "TCLG",
+        "transfer": true
+    },
+    {
+        "ID": "b9a600ff-4b10-4b6c-89da-043c1c49c782",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "T001",
+        "transfer": true
+    },
+    {
+        "ID": "c1c14991-e8ed-4c16-b868-f61e44f1948c",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "T002",
+        "transfer": true
+    },
+    {
+        "ID": "ef05bad4-cb57-4880-abfe-281ea2d15f5e",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "T003O",
+        "transfer": true
+    },
+    {
+        "ID": "1addd2da-5e43-4834-aafa-2d13d13f29ba",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "T003P",
+        "transfer": true
+    },
+    {
+        "ID": "f8ea053f-9783-4c7e-8cff-43adcd8a3c9f",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "T004",
+        "transfer": true
+    },
+    {
+        "ID": "59bb7087-eb6c-4bf0-bbe9-66229cec05eb",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "T004T",
+        "transfer": true
+    },
+    {
+        "ID": "a1d5f3f1-8515-4d3f-8932-694298abee94",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "T006",
+        "transfer": true
+    },
+    {
+        "ID": "b3cf1beb-cea1-4d89-8b36-0ba46a659c27",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "T006D",
+        "transfer": true
+    },
+    {
+        "ID": "67617a43-21e3-4a83-8075-c65363399211",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "T009B",
+        "transfer": true
+    },
+    {
+        "ID": "c6367ba4-fa41-492f-8359-d573c4078983",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "T023",
+        "transfer": true
+    },
+    {
+        "ID": "0f5483bb-9fec-4552-a5a0-799af946469e",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "T023T",
+        "transfer": true
+    },
+    {
+        "ID": "9ad61555-1c07-485a-936d-9a6424b5fec1",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "T134",
+        "transfer": true
+    },
+    {
+        "ID": "f460ed2f-8507-4ede-b96e-2f53ea328238",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "T134T",
+        "transfer": true
+    },
+    {
+        "ID": "ae600b90-0309-47a2-a6d6-03dba0f93d8d",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "T137",
+        "transfer": true
+    },
+    {
+        "ID": "d05dd98d-511a-4f6a-97bd-184ef3dfee0c",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "T137T",
+        "transfer": true
+    },
+    {
+        "ID": "3737372a-d8f2-470e-ace0-21847c6c71f9",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "T156",
+        "transfer": true
+    },
+    {
+        "ID": "e4963aaa-62b6-475b-bd0a-d1e752962e34",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "T156T",
+        "transfer": true
+    },
+    {
+        "ID": "5c20f95e-1ca3-41f0-96b4-2be2d40fd242",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "TGSB",
+        "transfer": true
+    },
+    {
+        "ID": "6a7a0a69-57dd-429e-ac87-7dcd67b2a03b",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "TKA01",
+        "transfer": true
+    },
+    {
+        "ID": "6918dcaf-f365-4696-ab47-f93c44475ac2",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "TKA02",
+        "transfer": true
+    },
+    {
+        "ID": "151db7e7-4311-453d-a722-5378fe9df6d1",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "TPIR2T",
+        "transfer": true
+    },
+    {
+        "ID": "1d6fcb9d-61c9-4b01-880e-b94c5539eb67",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "TPIK3",
+        "transfer": true
+    },
+    {
+        "ID": "1a43d4a6-febf-4e4b-98b5-fb7c2ce7ad97",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "SETLEAF",
+        "transfer": true
+    },
+    {
+        "ID": "c5a294bb-11bb-4dc0-9a8d-a6a116d02d95",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "TJ02T",
+        "transfer": true
+    },
+    {
+        "ID": "02d1cd89-d361-4219-ac91-5661564588a5",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "TJ30T",
+        "transfer": true
+    },
+    {
+        "ID": "c3e53baa-902d-4709-aaac-fc3afbb52ef6",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "T353I",
+        "transfer": true
+    },
+    {
+        "ID": "1232a755-3def-4ded-b0e2-5e53b805faea",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "T353I_T",
+        "transfer": true
+    },
+    {
+        "ID": "bb5429b9-4940-40b6-ba1d-cd027d407db1",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "TQ80",
+        "transfer": true
+    },
+    {
+        "ID": "22622d41-38fe-4971-8917-e72f6816e563",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "TQ80_T",
+        "transfer": true
+    },
+    {
+        "ID": "5c62abff-3a4f-455a-aaeb-c6669a5190f8",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "T356",
+        "transfer": true
+    },
+    {
+        "ID": "3c722769-3cfa-4e64-8d10-83c5fad6c1eb",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "T356_T",
+        "transfer": true
+    },
+    {
+        "ID": "43d8e3b2-cbb3-4602-b0fb-505009f86a4d",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "T356A_T",
+        "transfer": true
+    },
+    {
+        "ID": "00372b73-10bf-4256-be21-0a118b6dff7b",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "T370K_T",
+        "transfer": true
+    },
+    {
+        "ID": "3a23f8da-8e2f-4e33-bee1-ab3d59c8b8f1",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "AUFK",
+        "transfer": true
+    },
+    {
+        "ID": "8200fc24-42b1-48b4-908e-154f9540f25d",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "AFIH",
+        "transfer": true
+    },
+    {
+        "ID": "4aad6edc-b9d0-47e7-aa43-49560a21feee",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "AFKO",
+        "transfer": true
+    },
+    {
+        "ID": "945378c7-0ca0-4f2c-a18a-f37de0e78da3",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "AFPO",
+        "transfer": true
+    },
+    {
+        "ID": "b24600f5-1b03-4886-a34e-486e4966ec42",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "AFVC",
+        "transfer": true
+    },
+    {
+        "ID": "e749facf-02ac-4265-9431-4bbac6a66ba9",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "AFVV",
+        "transfer": true
+    },
+    {
+        "ID": "36b8a820-2165-4586-a58e-529912d8523a",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "AFRU",
+        "transfer": true
+    },
+    {
+        "ID": "b75e33fb-c1fe-4f59-b7fa-6c261eb5d64f",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "MSEG",
+        "transfer": true
+    },
+    {
+        "ID": "053bb42d-7a93-4b98-a092-46bfc972f4a3",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "CRHD",
+        "transfer": true
+    },
+    {
+        "ID": "0361b59d-a86a-4e43-a93e-6d159da6a0a7",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "CRTX",
+        "transfer": true
+    },
+    {
+        "ID": "56bc379e-1921-4b4f-9e4e-7e0e11619aaa",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "KAKO",
+        "transfer": true
+    },
+    {
+        "ID": "5f1f3dd0-af7a-4904-997a-4f232128f5d7",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "PMCO",
+        "transfer": true
+    },
+    {
+        "ID": "70ccf667-3a17-440b-a7d1-1249a49421c7",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "PMCO_OP",
+        "transfer": true
+    },
+    {
+        "ID": "9503b0e1-d383-4dc7-8800-c23fa197cfd3",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "ACDOCA",
+        "transfer": true
+    },
+    {
+        "ID": "17c46b0b-3734-4d0b-8a70-bbe440126ad8",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "CSKA",
+        "transfer": true
+    },
+    {
+        "ID": "e4ce42df-0de3-449d-bd4a-d22fe12d0dba",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "CSKB",
+        "transfer": true
+    },
+    {
+        "ID": "57af1048-db73-4af6-ae8b-492baad3ae7d",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "CSKU",
+        "transfer": true
+    },
+    {
+        "ID": "4ba5547c-3061-46f5-95d2-3b47fd4d68be",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "JEST",
+        "transfer": true
+    },
+    {
+        "ID": "9e55e76d-7001-4eef-854e-03ad19dd1b51",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "JSTO",
+        "transfer": true
+    },
+    {
+        "ID": "bc59b08e-bf8b-4109-95da-88896839cc67",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "IFLOT",
+        "transfer": true
+    },
+    {
+        "ID": "42b9cc31-9f93-4e41-b003-3f07fea234f2",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "IFLOTX",
+        "transfer": true
+    },
+    {
+        "ID": "84d0cf2f-a4cf-481b-a0c9-9a9281c63b00",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "ILOA",
+        "transfer": true
+    },
+    {
+        "ID": "4bfe82e9-b125-426b-8d68-0cf573431b80",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "IFLOS",
+        "transfer": true
+    },
+    {
+        "ID": "547efa5a-7c62-43b1-8543-863d6d50b611",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "EQUI",
+        "transfer": true
+    },
+    {
+        "ID": "bd9f95c2-068f-4c54-8a1d-05b31a0e3aca",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "EQUZ",
+        "transfer": true
+    },
+    {
+        "ID": "988a8e7e-968d-4dfa-a39b-dfb74395cc60",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "EQKT",
+        "transfer": true
+    },
+    {
+        "ID": "6128e457-416d-4f49-8526-7860691b89ed",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "COSS",
+        "transfer": true
+    },
+    {
+        "ID": "4398c030-b5ff-4f0f-91a7-5c797a1ea907",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "COSP",
+        "transfer": true
+    },
+    {
+        "ID": "6ab3b59b-8580-4162-a071-9aaef86b0f1e",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "RESB",
+        "transfer": true
+    },
+    {
+        "ID": "3008fe7b-dbe6-4a16-bbec-f30b0338224a",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "MARA",
+        "transfer": true
+    },
+    {
+        "ID": "01c37dc6-6d1f-4b03-b5f1-b98d4704434d",
+        "remoteSource_ID": "AO_S4H",
+        "tableName_ID": "MAKT",
+        "transfer": true
+    },
+    {
+        "ID": "12625880-90ee-49d6-b609-6a4ee9e5af0f",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "KLAH",
+        "transfer": true
+    },
+    {
+        "ID": "e62c0758-3359-4ab0-89a1-c4ac6a274036",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "KLAT",
+        "transfer": true
+    },
+    {
+        "ID": "b7e7b8f9-8fe8-46db-b9e1-e49396ac3161",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "KSSK",
+        "transfer": true
+    },
+    {
+        "ID": "d78098fa-a95e-4899-8cfd-0f2ba7383555",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "KSML",
+        "transfer": true
+    },
+    {
+        "ID": "7152e024-9ebf-4c7c-915c-8cd246435f7f",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "CABN",
+        "transfer": true
+    },
+    {
+        "ID": "7ef681f2-c315-4e90-9457-5acc08d730fa",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "CABNT",
+        "transfer": true
+    },
+    {
+        "ID": "ab89d20b-9870-4e81-b349-e5d3dc2685df",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "CAWN",
+        "transfer": true
+    },
+    {
+        "ID": "9cdbc688-b98c-4fed-aef1-a274fafaee8b",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "AUSP",
+        "transfer": true
+    },
+    {
+        "ID": "30f55130-de0a-4213-ab1e-cfe32f110409",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "TCLG",
+        "transfer": true
+    },
+    {
+        "ID": "ebf573d9-b86a-4560-8280-68b4921e063d",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "T001",
+        "transfer": true
+    },
+    {
+        "ID": "9fb81a06-ccf3-44d3-b437-3a5c7a85f6ea",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "T002",
+        "transfer": true
+    },
+    {
+        "ID": "2c4f031c-1081-455d-a630-e8792d2e0872",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "T003O",
+        "transfer": true
+    },
+    {
+        "ID": "66add7df-166d-452a-81ba-f6a235bf0307",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "T003P",
+        "transfer": true
+    },
+    {
+        "ID": "039501a4-43f8-4887-ab39-534335f35376",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "T004",
+        "transfer": true
+    },
+    {
+        "ID": "1accf607-626d-475a-a9c0-c745c4d537a5",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "T004T",
+        "transfer": true
+    },
+    {
+        "ID": "b249baed-37c7-49ba-9d37-022c8b830e38",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "T006",
+        "transfer": true
+    },
+    {
+        "ID": "904aeba6-f55e-4b9f-8c8d-3177d59cc941",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "T006D",
+        "transfer": true
+    },
+    {
+        "ID": "9795ce0e-b265-452e-8f60-1081be529606",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "T009B",
+        "transfer": true
+    },
+    {
+        "ID": "6eb3a9b1-5d49-4225-9e60-cb6ba91686f3",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "T023",
+        "transfer": true
+    },
+    {
+        "ID": "0c1ba1bf-2d34-4c16-9bf4-0ed7db017150",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "T023T",
+        "transfer": true
+    },
+    {
+        "ID": "73576c24-bd58-424b-aae0-e20c96d1b72d",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "T134",
+        "transfer": true
+    },
+    {
+        "ID": "2b113c3c-f8cb-40f2-96e1-985ee3f68eef",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "T134T",
+        "transfer": true
+    },
+    {
+        "ID": "12b38f2c-e29b-49e7-b7b8-496a1bcccdac",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "T137",
+        "transfer": true
+    },
+    {
+        "ID": "cd9ae655-2a3a-470e-8ce5-a77230a6a6a9",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "T137T",
+        "transfer": true
+    },
+    {
+        "ID": "a17a71eb-7219-4f0e-a17f-f3c1ce0da40d",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "T156",
+        "transfer": true
+    },
+    {
+        "ID": "858de521-f1b4-4561-b1d3-0e12879d167a",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "T156T",
+        "transfer": true
+    },
+    {
+        "ID": "162bb984-4c61-4e1d-8da8-33ab839fc6a6",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "TGSB",
+        "transfer": true
+    },
+    {
+        "ID": "415ad4ba-f0ab-4dea-8bbf-9c3995be262f",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "TKA01",
+        "transfer": true
+    },
+    {
+        "ID": "d683b6e4-2cb1-4770-9afc-52822a62c057",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "TKA02",
+        "transfer": true
+    },
+    {
+        "ID": "6f710046-cdee-4830-b178-b0446efd8b99",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "TPIR2T",
+        "transfer": true
+    },
+    {
+        "ID": "f5cf4712-a1ec-4e55-b671-e2d9e7128916",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "TPIK3",
+        "transfer": true
+    },
+    {
+        "ID": "3adef6ba-54d2-4c68-8949-ee32252cec2d",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "SETLEAF",
+        "transfer": true
+    },
+    {
+        "ID": "cc28d632-fb84-4d68-bd9c-6dbdf80ec97b",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "TJ02T",
+        "transfer": true
+    },
+    {
+        "ID": "6bcb12a9-d40e-441d-92bd-a50d6dfca2d7",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "TJ30T",
+        "transfer": true
+    },
+    {
+        "ID": "720354af-497a-4a0e-9700-35a6eb284a58",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "T353I",
+        "transfer": true
+    },
+    {
+        "ID": "1a65e408-c016-439e-b1ad-6b5a3507d5dd",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "T353I_T",
+        "transfer": true
+    },
+    {
+        "ID": "df2f7581-c4cf-4f8b-8604-5dd10eaba24f",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "TQ80",
+        "transfer": true
+    },
+    {
+        "ID": "68340e74-de63-4207-b521-753b5a81eb4d",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "TQ80_T",
+        "transfer": true
+    },
+    {
+        "ID": "0a909476-d99a-478e-b1e4-65fdfab096d5",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "T356",
+        "transfer": true
+    },
+    {
+        "ID": "8a22acb8-c11c-4095-931a-f1773371c649",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "T356_T",
+        "transfer": true
+    },
+    {
+        "ID": "59154a3c-b5fa-426f-bf82-c094824a5753",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "T356A_T",
+        "transfer": true
+    },
+    {
+        "ID": "19c182ba-c295-4284-8aea-7cb011a6453b",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "T370K_T",
+        "transfer": true
+    },
+    {
+        "ID": "71b99a73-300d-44bd-ab6b-4f89b1347a55",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "AUFK",
+        "transfer": true
+    },
+    {
+        "ID": "459c9e86-eeab-4ad2-9e00-c7d7e156b310",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "AFIH",
+        "transfer": true
+    },
+    {
+        "ID": "02c59e13-9b90-46ec-af0e-666bc61b9d14",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "AFKO",
+        "transfer": true
+    },
+    {
+        "ID": "229c62d2-759c-4512-9e5a-3721898395f0",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "AFPO",
+        "transfer": true
+    },
+    {
+        "ID": "365bd6e9-da8b-40b5-9dd9-989d2c39059a",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "AFVC",
+        "transfer": true
+    },
+    {
+        "ID": "816e765a-e715-4c9b-ae84-d1a048f25da8",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "AFVV",
+        "transfer": true
+    },
+    {
+        "ID": "c39b9375-cfa1-4c78-b6f4-86a7932f99c4",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "AFRU",
+        "transfer": true
+    },
+    {
+        "ID": "b9390335-db5a-46a6-a6fe-a6e3f7c13659",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "MSEG",
+        "transfer": true
+    },
+    {
+        "ID": "35bac44c-487f-4b8e-86f8-30da6a6425db",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "CRHD",
+        "transfer": true
+    },
+    {
+        "ID": "2eb529f6-0b4f-4bfb-bb40-2b40e4086851",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "CRTX",
+        "transfer": true
+    },
+    {
+        "ID": "03a3e510-6eea-45e1-b91f-07a43e38bab9",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "KAKO",
+        "transfer": true
+    },
+    {
+        "ID": "0450799e-56d4-4f22-b0c1-8c86041d5765",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "PMCO",
+        "transfer": true
+    },
+    {
+        "ID": "c753c8f9-b071-4441-87c5-9aa2be59e521",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "PMCO_OP",
+        "transfer": true
+    },
+    {
+        "ID": "cd8cc615-2d66-4ad8-b8b7-e8b2834e32dc",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "ACDOCA",
+        "transfer": true
+    },
+    {
+        "ID": "df92ad84-ea6b-4284-8f71-0104fda94727",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "CSKA",
+        "transfer": true
+    },
+    {
+        "ID": "bc10f7bb-b693-47ef-abfb-47f97f4f76df",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "CSKB",
+        "transfer": true
+    },
+    {
+        "ID": "8717aae4-a85b-4a05-98cd-141b6cece123",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "CSKU",
+        "transfer": true
+    },
+    {
+        "ID": "2a1f5cca-615a-49f4-93fc-af0a2b9b8627",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "JEST",
+        "transfer": true
+    },
+    {
+        "ID": "fb625eb6-6dd5-465d-b5ec-41502ddcc695",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "JSTO",
+        "transfer": true
+    },
+    {
+        "ID": "af7ce69a-d4f5-44cf-afd0-7e45b8c2b977",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "IFLOT",
+        "transfer": true
+    },
+    {
+        "ID": "2561bbe9-1620-4251-997b-4a2c0623ada5",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "IFLOTX",
+        "transfer": true
+    },
+    {
+        "ID": "fbd80ba4-cf3d-4b70-af80-e1c0a59cc5db",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "ILOA",
+        "transfer": true
+    },
+    {
+        "ID": "28e20972-7fb1-4681-9e54-00abdf287960",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "IFLOS",
+        "transfer": true
+    },
+    {
+        "ID": "fdeb0010-45f8-4251-82af-1311c60dca1a",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "EQUI",
+        "transfer": true
+    },
+    {
+        "ID": "5a4f830e-cea3-4657-b70d-016a271eb345",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "EQUZ",
+        "transfer": true
+    },
+    {
+        "ID": "5462876d-45de-4311-98b3-bd64e13e56e8",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "EQKT",
+        "transfer": true
+    },
+    {
+        "ID": "96ebdc47-82db-4689-9ba0-980076fe580b",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "COSS",
+        "transfer": true
+    },
+    {
+        "ID": "0f20fbd5-6492-458c-bb34-3accc484c9fe",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "COSP",
+        "transfer": true
+    },
+    {
+        "ID": "3374b691-4e93-4548-8f36-1258d36190c6",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "RESB",
+        "transfer": true
+    },
+    {
+        "ID": "586c3865-8f2c-4e0a-b36d-b0e2199c53ad",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "MARA",
+        "transfer": true
+    },
+    {
+        "ID": "87ae68a8-cc78-462e-8909-a8025d33b8e8",
+        "remoteSource_ID": "AO_S4D",
+        "tableName_ID": "MAKT",
+        "transfer": true
+    }
+]
