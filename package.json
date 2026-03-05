@@ -21,6 +21,7 @@
   },
   "scripts": {
     "start": "cds-serve",
+    "oracle-schema-gen": "node tools/s4oraschemagen.js",
     "test": "mocha --timeout 5000 test/mocha/**/*.js",
     "build": "rimraf resources mta_archives && mbt build --mtar archive",
     "deploy": "cf deploy mta_archives/archive.mtar --retries 1",
@@ -29,13 +30,38 @@
   },
   "private": true,
   "type": "module",
+  "iota":{
+    "SynonymTargetSchemaName": "IOTA_S4"
+  },
   "cds": {
-    "requires": {
-      "[production]": {
+    "log": {
+      "levels": {
+        "s4conn": "debug",
+        "viewgenerator": "info"
+      }
+    },
+    "[production]": {
+      "log": {
+        "format": "plain",
+        "levels": {
+          "s4conn": "debug",
+          "viewgenerator": "info"
+        }
+      },
+      "requires": {
         "auth": "xsuaa",
         "db": "hana"
+      }
+    },
+    "[hybrid]": {
+      "log": {
+        "format": "plain",
+        "levels": {
+          "s4conn": "debug",
+          "viewgenerator": "info"
+        }
       },
-      "[hybrid]": {
+      "requires": {
         "auth": "dummy",
         "db": "hana"
       }
