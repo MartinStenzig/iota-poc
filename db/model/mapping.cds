@@ -1,6 +1,6 @@
 namespace ao.mapped;
+using {s4} from './s4';    
 
-using {s4} from './source';
 
 
 entity ReportingTypes as
