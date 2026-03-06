@@ -2,7 +2,13 @@
     "ao-grantor-service": {
         "object_owner": {
             "system_privileges": [],
-            "global_roles": [],
+            "global_roles": [
+                {
+                    "roles": [
+                        "AO_IOTA_ACCESS"
+                    ]
+                }
+            ],
             "schema_privileges": [],
             "schema_roles": [],
             "object_privileges": [],
