@@ -1,0 +1,7 @@
+{
+    "ao.iota": {
+        "target": {
+            "schema": "IOTA_S4"
+        }
+    }
+}

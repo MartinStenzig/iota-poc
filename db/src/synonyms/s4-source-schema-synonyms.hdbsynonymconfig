@@ -1,0 +1,386 @@
+{
+  "SOURCE_S4_T001": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_T001"
+    }
+  },
+  "SOURCE_S4_T002": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_T002"
+    }
+  },
+  "SOURCE_S4_T003O": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_T003O"
+    }
+  },
+  "SOURCE_S4_T003P": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_T003P"
+    }
+  },
+  "SOURCE_S4_T004": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_T004"
+    }
+  },
+  "SOURCE_S4_T004T": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_T004T"
+    }
+  },
+  "SOURCE_S4_T006": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_T006"
+    }
+  },
+  "SOURCE_S4_T006D": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_T006D"
+    }
+  },
+  "SOURCE_S4_T009B": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_T009B"
+    }
+  },
+  "SOURCE_S4_T023": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_T023"
+    }
+  },
+  "SOURCE_S4_T023T": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_T023T"
+    }
+  },
+  "SOURCE_S4_T134": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_T134"
+    }
+  },
+  "SOURCE_S4_T134T": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_T134T"
+    }
+  },
+  "SOURCE_S4_T137": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_T137"
+    }
+  },
+  "SOURCE_S4_T137T": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_T137T"
+    }
+  },
+  "SOURCE_S4_T156": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_T156"
+    }
+  },
+  "SOURCE_S4_T156T": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_T156T"
+    }
+  },
+  "SOURCE_S4_TGSB": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_TGSB"
+    }
+  },
+  "SOURCE_S4_TKA01": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_TKA01"
+    }
+  },
+  "SOURCE_S4_TKA02": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_TKA02"
+    }
+  },
+  "SOURCE_S4_TPIR2T": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_TPIR2T"
+    }
+  },
+  "SOURCE_S4_TPIK3": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_TPIK3"
+    }
+  },
+  "SOURCE_S4_SETLEAF": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_SETLEAF"
+    }
+  },
+  "SOURCE_S4_TJ02T": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_TJ02T"
+    }
+  },
+  "SOURCE_S4_TJ30T": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_TJ30T"
+    }
+  },
+  "SOURCE_S4_T353I": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_T353I"
+    }
+  },
+  "SOURCE_S4_T353I_T": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_T353I_T"
+    }
+  },
+  "SOURCE_S4_TQ80": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_TQ80"
+    }
+  },
+  "SOURCE_S4_TQ80_T": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_TQ80_T"
+    }
+  },
+  "SOURCE_S4_T356": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_T356"
+    }
+  },
+  "SOURCE_S4_T356_T": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_T356_T"
+    }
+  },
+  "SOURCE_S4_T356A_T": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_T356A_T"
+    }
+  },
+  "SOURCE_S4_T370K_T": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_T370K_T"
+    }
+  },
+  "SOURCE_S4_AUFK": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_AUFK"
+    }
+  },
+  "SOURCE_S4_AFIH": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_AFIH"
+    }
+  },
+  "SOURCE_S4_AFKO": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_AFKO"
+    }
+  },
+  "SOURCE_S4_AFPO": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_AFPO"
+    }
+  },
+  "SOURCE_S4_AFVC": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_AFVC"
+    }
+  },
+  "SOURCE_S4_AFVV": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_AFVV"
+    }
+  },
+  "SOURCE_S4_AFRU": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_AFRU"
+    }
+  },
+  "SOURCE_S4_MSEG": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_MSEG"
+    }
+  },
+  "SOURCE_S4_CRHD": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_CRHD"
+    }
+  },
+  "SOURCE_S4_CRTX": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_CRTX"
+    }
+  },
+  "SOURCE_S4_KAKO": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_KAKO"
+    }
+  },
+  "SOURCE_S4_PMCO": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_PMCO"
+    }
+  },
+  "SOURCE_S4_PMCO_OP": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_PMCO_OP"
+    }
+  },
+  "SOURCE_S4_ACDOCA": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_ACDOCA"
+    }
+  },
+  "SOURCE_S4_CSKA": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_CSKA"
+    }
+  },
+  "SOURCE_S4_CSKB": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_CSKB"
+    }
+  },
+  "SOURCE_S4_CSKU": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_CSKU"
+    }
+  },
+  "SOURCE_S4_COSS": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_COSS"
+    }
+  },
+  "SOURCE_S4_COSP": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_COSP"
+    }
+  },
+  "SOURCE_S4_JEST": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_JEST"
+    }
+  },
+  "SOURCE_S4_JSTO": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_JSTO"
+    }
+  },
+  "SOURCE_S4_IFLOT": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_IFLOT"
+    }
+  },
+  "SOURCE_S4_IFLOTX": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_IFLOTX"
+    }
+  },
+  "SOURCE_S4_ILOA": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_ILOA"
+    }
+  },
+  "SOURCE_S4_IFLOS": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_IFLOS"
+    }
+  },
+  "SOURCE_S4_EQUI": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_EQUI"
+    }
+  },
+  "SOURCE_S4_EQUZ": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_EQUZ"
+    }
+  },
+  "SOURCE_S4_EQKT": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_EQKT"
+    }
+  },
+  "SOURCE_S4_RESB": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_RESB"
+    }
+  },
+  "SOURCE_S4_MARA": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_MARA"
+    }
+  },
+  "SOURCE_S4_MAKT": {
+    "target": {
+      "logical_schema": "ao.iota",
+      "object": "S4_MAKT"
+    }
+  }
+}

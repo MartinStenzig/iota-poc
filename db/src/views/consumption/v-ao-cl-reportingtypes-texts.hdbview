@@ -1,0 +1,9 @@
+VIEW V_AO_CL_REPORTINGTYPES_TEXTS COMMENT 'Consumption Layer View for ReportingTypes Texts' AS
+SELECT
+    SOURCE_SYSTEM,
+    Client,
+    Code,
+    locale,
+    Description
+FROM
+    V_AO_HL_REPORTINGTYPES_TEXTS

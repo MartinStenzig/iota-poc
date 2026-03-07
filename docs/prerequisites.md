@@ -22,6 +22,9 @@
 3. You have to grant the role with admin option to the user in the ao grantor service (in our case `AO_GRANTOR_USER`)
     - The statement to use is `GRANT AO_IOTA_ACCESS TO AO_GRANTOR_USER WITH ADMIN OPTION`
 
+4. Once the Oracle Schema Generation script has been run, you need to execute `GRANT SELECT ON SCHEMA IOTA_S4 TO AO_IOTA_ACCESS WITH GRANT OPTION`
+
+
 ### SAP 
 #### What to do in case the ABAPTABLES list does not show up in the Remote Source dictionary
 In short, the ABAP backend is blocking an external RFC call to a function module.  The adapter is trying to call /SAPDS/TABLE_IMPORT to read tables — and the ABAP system refuses. To fix, we have to “whitelist” the function module.

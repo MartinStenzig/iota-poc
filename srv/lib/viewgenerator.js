@@ -62,7 +62,7 @@ export class ViewGenerator {
         }
 
         // Combines the individual select statements into a union query, and wraps it into a create view statement
-        const viewCreation = `CREATE VIEW S4_${this.entity['@ao.S4TableName']} AS ${queries.join(' UNION ALL ')}`
+        const viewCreation = `CREATE VIEW ${this.schema ? `"${this.schema}".` : ''}S4_${this.entity['@ao.S4TableName']} AS ${queries.join(' UNION ALL ')}`
         LOG.debug('Generated query for entity', this.entityName, ':', viewCreation)
         return viewCreation
     }

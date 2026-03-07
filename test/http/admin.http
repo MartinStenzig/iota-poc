@@ -2,7 +2,7 @@
 @service=/odata/v4/admin
 
 ####
-GET {{server}}{{service}}/AReportingTypes
+GET {{server}}{{service}}/TReportingTypes
 ####
 GET {{server}}{{service}}/EntitySynchStatus?$expand=events($orderby=createdAt desc)
 ####

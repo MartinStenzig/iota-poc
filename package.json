@@ -36,7 +36,7 @@
   "cds": {
     "log": {
       "levels": {
-        "s4conn": "debug",
+        "s4conn": "info",
         "viewgenerator": "info"
       }
     },

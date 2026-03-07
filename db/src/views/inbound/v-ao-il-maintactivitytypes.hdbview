@@ -1,0 +1,26 @@
+VIEW V_AO_IL_MAINTACTIVITYTYPES COMMENT 'Inbound Layer View for Maintenance Activity Types' AS
+SELECT
+    T353I.SOURCE_SYSTEM,
+    T353I.MANDT, --Client
+    T353I.ILART, --Maintenance activity type
+    T353I.GAR, --Warranty case
+    T353I.VER, --Insurance case
+    -- T353I_T.MANDT,--Client
+    T353I_T.SPRAS, --Language KEY
+    T353I_T.LAISO, --2-Character SAP Language Code
+    -- T353I_T.ILART,--Maintenance activity type
+    T353I_T.ILATX --Description of maintenance activity type
+FROM
+    SOURCE_S4_T353I AS T353I
+    LEFT OUTER JOIN (
+        SELECT
+            T.*,
+            S.LAISO
+        FROM
+            SOURCE_S4_T353I_T T
+            INNER JOIN SOURCE_S4_T002 S ON (T.SPRAS = S.SPRAS)
+    ) AS T353I_T ON (
+        T353I.SOURCE_SYSTEM = T353I_T.SOURCE_SYSTEM
+        AND T353I.MANDT = T353I_T.MANDT
+        AND T353I.ILART = T353I_T.ILART
+    )

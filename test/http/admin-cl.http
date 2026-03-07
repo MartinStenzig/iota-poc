@@ -1,0 +1,23 @@
+
+
+@authServer=https://ao-sbx.authentication.us10.hana.ondemand.com
+@authService=/oauth/token
+@clientId=sb-iota-aosbx-sbx!t372542
+@clientSecret=17ea1f92-c60b-4754-a6b6-3028b1ad1a3d$WcGazVn6dMBCOKzZJngF81VadyFQdovPajF6m_fT5CI=
+@scope=uaa.resource
+
+@server=https://aosbx-sbx-iota-srv.cfapps.us10-001.hana.ondemand.com
+@service=/odata/v4/admin
+
+
+####
+# @name UaaRequest
+#
+POST {{authServer}}{{authService}}
+Content-Type: application/x-www-form-urlencoded
+
+grant_type=client_credentials&client_id={{clientId}}&client_secret={{clientSecret}}&scope={{scope}}
+
+####
+GET {{server}}{{service}}/TReportingTypes
+Authorization: Bearer {{UaaRequest.response.body.access_token}}

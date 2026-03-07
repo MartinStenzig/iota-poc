@@ -1,0 +1,13 @@
+VIEW AO_S4_SYNC_REPORTINGTYPES COMMENT 'Projection Layer View for ReportingTypes' AS
+SELECT DISTINCT
+    MAT.SOURCE_SYSTEM || '|' || MAT.MANDT || '|' || MAT.ILART AS ID,
+    MAT.ILART code,
+    MAT.ILART sapILART,
+    'N/A' description,
+    TO_DATE ('1990-01-01', 'YYYY-MM-DD') createdAt,
+    'N/A' createdBy,
+    TO_DATE ('1990-01-01', 'YYYY-MM-DD') modifiedAt,
+    'N/A' modifiedBy,
+    SOURCE_SYSTEM sourceSystem
+FROM
+    V_AO_IL_MAINTACTIVITYTYPES AS MAT

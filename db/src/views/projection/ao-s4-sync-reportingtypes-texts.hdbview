@@ -1,0 +1,8 @@
+VIEW AO_S4_SYNC_REPORTINGTYPES_TEXTS COMMENT 'Projection Layer View for ReportingTypes' AS
+SELECT
+    SOURCE_SYSTEM || '|' || Client || '|' || Code AS ID,
+--    Code,
+    locale,
+    Description
+FROM
+    V_AO_HL_REPORTINGTYPES_TEXTS

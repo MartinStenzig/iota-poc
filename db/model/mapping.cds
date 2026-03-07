@@ -2,7 +2,7 @@ namespace ao.mapped;
 using {s4} from './s4';    
 
 
-
+/*
 entity ReportingTypes as
     select from s4.T353I {
         @ao.keyconversion
@@ -13,7 +13,7 @@ entity ReportingTypes as
             ILART   as code,
             ILART   as sapILART,
     };
-
+*/
 /*
 entity ReportingTypes_texts as
     select from s4.T353I_T as t

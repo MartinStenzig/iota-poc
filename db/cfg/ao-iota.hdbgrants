@@ -4,7 +4,7 @@
             "system_privileges": [],
             "global_roles": [
                 {
-                    "roles": [
+                    "roles_with_admin_option": [
                         "AO_IOTA_ACCESS"
                     ]
                 }
@@ -15,9 +15,7 @@
             "global_object_privileges": []
         },
         "application_user": {
-            "system_privileges": [
-                {}
-            ],
+            "system_privileges": [],
             "global_roles": [
                 {
                     "roles": [
@@ -26,15 +24,9 @@
                 }
             ],
             "schema_privileges": [],
-            "schema_roles": [
-                {}
-            ],
-            "object_privileges": [
-                {}
-            ],
-            "global_object_privileges": [
-                {}
-            ]
+            "schema_roles": [],
+            "object_privileges": [],
+            "global_object_privileges": []
         }
     }
 }

@@ -22,6 +22,13 @@ cds.on('loaded', csn => {
 
     for (let e of cds.linked(csn).entities) {
 
+        if (e['@ao.synchTable'] && !e.query) {
+            if (!ONHANA) {
+                e['@cds.persistence.exists'] = false
+            }
+        }
+
+
         if (e['@ao.S4TableName'] && !e.query) {
 
             // Add the entity to the list to be represented by views to one or multiple virtual tables if on HANA database, otherwise mocked by tables
@@ -44,7 +51,7 @@ cds.on('loaded', csn => {
 cds.once('served', async () => {
 
     if (ONHANA) {
-     
+
 
         /*
         const { EntitySynchEvents } = cds.entities('ao.iota.admin')
