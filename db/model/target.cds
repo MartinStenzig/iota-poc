@@ -1,4 +1,4 @@
-namespace ao.s4.sync;
+namespace ao.eam.target;
 
 //using {ao.eam.core as c} from '@alphaoak/eam-core'
 
@@ -12,9 +12,6 @@ using {
  * @title Reporting Types
  * @description Possible Reporting Types assigned to a Job. In SAP this is comparable to the Maintenance Activity Type
  */
-@ao.synchTable
-@cds.persistence.exists
-@readonly
 entity ReportingTypes : cuid, managed {
     /** Code identifying the object */
     code         : String(100)                 @title: '{i18n>Code}';

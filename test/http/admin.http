@@ -1,8 +1,8 @@
-@server=http://localhost:4004
+@server=http://localhost:4090
 @service=/odata/v4/admin
 
 ####
-GET {{server}}{{service}}/TReportingTypes
+GET {{server}}{{service}}/SReportingTypes
 ####
 GET {{server}}{{service}}/EntitySynchStatus?$expand=events($orderby=createdAt desc)
 ####

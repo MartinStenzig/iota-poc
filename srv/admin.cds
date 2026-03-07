@@ -2,7 +2,8 @@ using {ao.iota.admin as admin} from '../db/model/admin';
 
 //using {ao.mapped as a} from '../db/model/mapping';
 //using {ao.eam.core as e} from '../db/target';
-using {ao.s4.sync as t} from '../db/model/target';
+using {ao.s4.sync as s} from '../db/model/source';
+using {ao.eam.target as t} from '../db/model/target';
 
 using {s4} from '../db/model/s4';
 
@@ -33,5 +34,5 @@ service AdminService {
   //  entity AReportingTypes   as projection on a.ReportingTypes;
     //entity ReportingTypes_texts as projection on a.ReportingTypes_texts;
     //entity RT as projection on e.ReportingTypes;
-    entity TReportingTypes   as projection on t.ReportingTypes;
+    entity SReportingTypes   as projection on s.ReportingTypes;
 }

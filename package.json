@@ -2,6 +2,7 @@
   "name": "iota-poc",
   "version": "1.0.0",
   "dependencies": {
+    "@alphaoak/eam-core": "^1.1.14",
     "@cap-js/hana": "^2",
     "@sap/cds": "^9",
     "@sap/xssec": "^4",
@@ -30,7 +31,7 @@
   },
   "private": true,
   "type": "module",
-  "iota":{
+  "iota": {
     "SynonymTargetSchemaName": "IOTA_S4"
   },
   "cds": {
